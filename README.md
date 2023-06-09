@@ -8,7 +8,7 @@
 <body>
    <center> <h1>Mon entreprise de vente de moto</h1></center>
    <center><h2>Aujourd'hui je serai heureux de vous annoncez la création de ma nouvelle entreprise </h2></center>
-   <center>nonmée ZAKOU_MOYO</center>
+   <center><h2>nonmée ZAKOU_MOYO</h2></center>
 </body>
 </html>
     <center><h1>mon nouveau projet </h1></center>
