@@ -11,10 +11,9 @@
    <center><h2>nommée ZAKOU_MOTO</h2></center>
 </body>
 </html>
-    <center> <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" ></center>
-    <center>Apsonic AP 120-30</center>
-    <center> <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" ></center>
-    <center> <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" ></center>
+     <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" >
+    <h2>Apsonic AP 120-30</h2>
+     <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" ></> <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
     
     
 
