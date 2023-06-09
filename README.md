@@ -12,8 +12,14 @@
 </body>
 </html>
      <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" >
-    <h2>Apsonic AP 120-30</h2>
-     <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" ></> <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
+    <h2>Apsonic AP 125-30 </h2>
+    <h2>PRIX 560.000 FCFA </h2>
+     <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" >
+      <h2>Dazon pour bagage </h2>
+    <h2>PRIX 1.180.000 FCFA </h2> 
+     <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
+      <h2>Apsonic pour passager </h2>
+    <h2>PRIX 1.175.000 FCFA </h2>
     
     
 
