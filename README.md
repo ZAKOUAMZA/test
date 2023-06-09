@@ -13,7 +13,7 @@
 </html>
     <center> <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="Apsonic AP 120-30" ></center>
     <center> <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" ></center>
-    <center> <img src="https://images.coinafrique.com/3176778_uploaded_image1_1623915280.jpg"alt="tricycle pour passager" ></center>
+    <center> <img src="https://images.coinafrique.com/3176778_uploaded_image1_1623915280.jpg" alt="tricycle pour passager" ></center>
     
     
 
