@@ -21,7 +21,7 @@
       <h2>Apsonic pour passager </h2>
     <h2>PRIX 1.175.000 FCFA </h2>
     <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3>
-     <img src="https://www.canva.com/design/DAFlEfuFkXs/6RiNPnl6iFTiwDI9jk-3zw/edit?utm_content=DAFlEfuFkXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="tricycle pour passager" >
+     <img src="https://www.canva.com/design/DAFlEfuFkXs/6RiNPnl6iFTiwDI9jk-3zw/edit?utm_content=DAFlEfuFkXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="" >
     
     
 
