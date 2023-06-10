@@ -22,8 +22,7 @@
     <h2>PRIX 1.175.000 FCFA </h2>
     <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3>
      
-    iukeyjioklrtuyjh
-    tiyu
+    
     
 
     
