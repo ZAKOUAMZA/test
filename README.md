@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MON MAGASIN</title>
 </head>
-<body style="background-color:vert">
+<body style="background-color:powderblue;">
 
   <center> <h1>Mon entreprise de vente de moto</h1></center>
    <center><h2>Aujourd'hui je serai heureux de vous annoncez la création de ma nouvelle entreprise </h2></center>
@@ -18,7 +18,7 @@
     <h2>PRIX 1.180.000 FCFA </h2> 
      <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
       <h2>Apsonic pour passager </h2>
-    <h2>PRIX 1.175.000 FCFA </h2>
+    <h2 style="color:blue;">PRIX 1.175.000 FCFA </h2>
     <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3>
    
 </body>
