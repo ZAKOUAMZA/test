@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>mon projet sur github</title>
+    <title>MON MAGASIN</title>
 </head>
 <body style="background-color:vert">
+
   <center> <h1>Mon entreprise de vente de moto</h1></center>
    <center><h2>Aujourd'hui je serai heureux de vous annoncez la création de ma nouvelle entreprise </h2></center>
    <center><h2>nommée ZAKOU_MOTO</h2></center>
-     <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" widht="100px" heigh="1000px" >
+     <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" >
     <h2>Apsonic AP 125-30 </h2>
     <h2>PRIX 560.000 FCFA </h2>
      <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" >
