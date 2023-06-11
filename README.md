@@ -129,6 +129,46 @@
                   <td> Trés bon</td>
          </tr>
         </tbody>
+    </table>
+<img src="https://www.enduromag.fr/wp-content/uploads/2015/06/exc-2016.jpg " alt="" >
+    <table weidht="100px" eight="100px" border="25px">
+        <thead> 
+        <tr>
+            <th>Caractéristique</th>
+                        <th>/</th>
+        </tr>
+      </center>
+        </thead>
+        <tbody>
+        <tr>
+         <td>Marque :</td>
+         <td>DT Américaine</td>
+         </tr>
+        <tr>
+         <td>Modèle :</td>
+         <td>DT 180-90</td>
+         </tr>
+         <tr>
+         <td>Année :</td>
+                  <td>2023</td>
+         </tr>
+         <tr>
+         <td>Kilométrage :</td>
+                  <td>120 000 km</td>
+         </tr>
+         <tr>
+         <td>Couleur :</td>
+                  <td>orange</td>
+         </tr>
+         <tr>
+         <td>Prix :</td>
+                  <td>1.190.000 FCFA</td>
+         </tr>
+         <tr>
+         <td>État :</td>
+                  <td> Trés bon</td>
+         </tr>
+        </tbody>
     </table> 
     <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3> 
 </body>
