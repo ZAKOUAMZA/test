@@ -20,6 +20,52 @@
       <h2>Apsonic pour passager </h2>
     <h2 style="color:blue;">PRIX 1.175.000 FCFA </h2>
     <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3>
-   
+     <table weidht="100px" border="100px">
+        <thead> 
+            <div>
+        <tr>
+            <th>je suis</th>
+            <th>tu est</th>
+            <th>nous somme</th>
+            <th>vous êtes</th>
+            <th>ils/elles sont</th>
+        </tr>
+    </div>
+        </thead>
+        <tbody>
+            <div>
+        <tr>
+         <th>amza</th>
+         <th>zakou</th>
+         <th>dari</th>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <th>amza</th>
+            <th>zakou</th>
+            <th>dari</th>
+           </tr>
+        </div>
+        </tbody>
+    </table> 
 </body>
 </html>
