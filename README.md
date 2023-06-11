@@ -31,13 +31,13 @@
         <tbody>
             <div>
         <tr>
-         <th>Marque :</th>
-         <th>Modèle :</th>
-         <th>Année :</th>
-         <th>Kilométrage :</th>
-         <th>Couleur :</th>
-         <th>Prix :</th>
-         <th>État :</th>
+         <td>Marque :</td>
+         <td>Modèle :</td>
+         <td>Année :</td>
+         <td>Kilométrage :</td>
+         <td>Couleur :</td>
+         <td>Prix :</td>
+         <td>État :</td>
          </tr>
         </div>
         </tbody>
