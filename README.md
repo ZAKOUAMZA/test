@@ -174,13 +174,12 @@
     <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3> 
     <form method="post" action="">
 	<div id="A">
-    <p><label for"nom">Nom</label><br><input id="nom"name="username"placeholder="Nom..."></p>
-    <p><label for"nom">Prenom</label><br><input id="nom"name="username"placeholder="prenom"></p>
-    <p><label for"nom">ÂGE</label><br><input id="nom"name="username" placeholder="prenom"></p>
-    <p><label for"nom">Sexe</label><br><input id="nom"name="username"placeholder="prenom"></p>
-    <p><label for"tel">Telephone</label><br><input id="tel"name="username"placeholder="prenom"></p>
-    <p><label for"tel">Classe</label><br><input id="tel"name="username"placeholder="prenom"></p>
-    <p><label for "password">Password</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom">
+    <p><label for"nom">Nom Zakou </label><br><input id="nom"name="username"placeholder="Nom..."></p>
+    <p><label for"nom">Prenom Amza</label><br><input id="nom"name="username"placeholder="prenom"></p>
+    <p><label for"nom">ÂGE 19 ans</label><br><input id="nom"name="username" placeholder="prenom"></p>
+    <p><label for"nom">Sexe M</label><br><input id="nom"name="username"placeholder="prenom"></p>
+    <p><label for"tel">Telephone  +21658262534</label><br><input id="tel"name="username"placeholder="prenom"></p>
+    <p><label for "password">Password  ABFDE0089</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom">
     </form>
 </body>
 </html>
