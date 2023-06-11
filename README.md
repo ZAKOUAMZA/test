@@ -181,5 +181,6 @@
     <pre><p><label for"tel">Telephone  +21658262534</label><br><input id="tel"name="username"placeholder="prenom"></p></pre>
     <pre><p><label for "password">Password  ABFDE0089</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom"></pre>
     </form>
+<img src="https://tse1.mm.bing.net/th/id/OIP.xILAh7GLfydSaMahbReSdwHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="" >   
 </body>
 </html>
