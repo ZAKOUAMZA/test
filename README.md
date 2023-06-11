@@ -52,8 +52,45 @@
         </tbody>
     </table> 
      <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" >
-      <h2>Dazon pour bagage </h2>
-    <h2>PRIX 1.180.000 FCFA </h2> 
+      <table weidht="100px" eight="100px" border="25px">
+        <thead> 
+        <tr>
+            <th>Caractéristique</th>
+                        <th>/</th>
+        </tr>
+      </center>
+        </thead>
+        <tbody>
+        <tr>
+         <td>Marque :</td>
+         <td>Dazon</td>
+         </tr>
+        <tr>
+         <td>Modèle :</td>
+         <td>Dz 125-30</td>
+         </tr>
+         <tr>
+         <td>Année :</td>
+                  <td>2018</td>
+         </tr>
+         <tr>
+         <td>Kilométrage :</td>
+                  <td>60 000 km</td>
+         </tr>
+         <tr>
+         <td>Couleur :</td>
+                  <td>Grise</td>
+         </tr>
+         <tr>
+         <td>Prix :</td>
+                  <td>1.180.000 FCFA</td>
+         </tr>
+         <tr>
+         <td>État :</td>
+                  <td> Trés bon</td>
+         </tr>
+        </tbody>
+    </table> 
      <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
       <h2>Apsonic pour passager </h2>
     <h2 style="color:blue;">PRIX 1.175.000 FCFA </h2>
