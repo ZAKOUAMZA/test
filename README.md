@@ -181,6 +181,73 @@
     <pre><p><label for"tel">Telephone  +21658262534</label><br><input id="tel"name="username"placeholder="prenom"></p></pre>
     <pre><p><label for "password">Password  ABFDE0089</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom"></pre>
     </form>
-<img src="https://tse1.mm.bing.net/th/id/OIP.xILAh7GLfydSaMahbReSdwHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="" >   
+<img src="https://tse1.mm.bing.net/th/id/OIP.xILAh7GLfydSaMahbReSdwHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="" >
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table weidht="100px" border="100px">  
+        <thead> 
+            <div>
+        <tr>
+            <th>je suis</th>
+            <th>tu est</th>
+            <th>nous somme</th>
+            <th>vous êtes</th>
+            <th>ils/elles sont</th>
+        </tr>
+    </div>
+        </thead>
+        <tbody>
+            <div>
+        <tr>
+         <th>amza</th>
+         <th>zakou</th>
+         <th>dari</th>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <td>etudiant</td>
+            <td>buisness intelligence</td>
+            <td>université libre de tunis</td>
+        </tr>
+        <tr>
+            <th>amza</th>
+            <th>zakou</th>
+            <th>dari</th>
+           </tr>
+        </div>
+       </tbody>
+    </table>
+    <img src="../Téléchargements/qrcode_scontent.ftun10-1.fna.fbcdn.net.png" alt="000">
+    <form method="post" action="">
+        <div id="A">
+        <p><label for"nom">Nom</label><br><input id="nom"name="username"placeholder="prenom"></p>
+        <p><label for"nom">Prenom</label><br><input id="nom"name="username"placeholder=""></p>
+        <p><label for"nom">ÂGE</label><br><input id="nom"name="username" placeholder=""></p>
+        <p><label for"nom">Sexe</label><br><input id="nom"name="username"placeholder=""></p>
+        <p><label for"tel">Telephone</label><br><input id="tel"name="username"placeholder=""></p>
+        <p><label for"tel">Classe</label><br><input id="tel"name="username"placeholder=""></p>
+        <p><label for "password">Password</label><br><input id="password" type="password" name="champFormulaire" placeholder="">
+        </form>
+<a href="https://www.facebook.com/profile.php?id=100086211325213">voir facebook</a>   
 </body>
 </html>
