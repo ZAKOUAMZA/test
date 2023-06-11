@@ -24,46 +24,20 @@
         <thead> 
             <div>
         <tr>
-            <th>je suis</th>
-            <th>tu est</th>
-            <th>nous somme</th>
-            <th>vous êtes</th>
-            <th>ils/elles sont</th>
+            <th>Caractéristique</th>
+            <th>Performance</th>
+            <th>Qualité</th>
+            <th>Prix</th>
         </tr>
     </div>
         </thead>
         <tbody>
             <div>
         <tr>
-         <th>amza</th>
-         <th>zakou</th>
-         <th>dari</th>
+         <th></th>
+         <th></th>
+         <th></th>
         </tr>
-        <tr>
-            <td>etudiant</td>
-            <td>buisness intelligence</td>
-            <td>université libre de tunis</td>
-        </tr>
-        <tr>
-            <td>etudiant</td>
-            <td>buisness intelligence</td>
-            <td>université libre de tunis</td>
-        </tr>
-        <tr>
-            <td>etudiant</td>
-            <td>buisness intelligence</td>
-            <td>université libre de tunis</td>
-        </tr>
-        <tr>
-            <td>etudiant</td>
-            <td>buisness intelligence</td>
-            <td>université libre de tunis</td>
-        </tr>
-        <tr>
-            <th>amza</th>
-            <th>zakou</th>
-            <th>dari</th>
-           </tr>
         </div>
         </tbody>
     </table> 
