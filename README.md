@@ -175,11 +175,11 @@
     <form method="post" action="">
 	<div id="A">
     <pre><p><label for"nom">Nom        Zakou </label><br><input id="nom"name="username"placeholder="Nom..."></p></pre>
-    <p><label for"nom">Prenom Amza</label><br><input id="nom"name="username"placeholder="prenom"></p>
-    <p><label for"nom">ÂGE 19 ans</label><br><input id="nom"name="username" placeholder="prenom"></p>
-    <p><label for"nom">Sexe M</label><br><input id="nom"name="username"placeholder="prenom"></p>
-    <p><label for"tel">Telephone  +21658262534</label><br><input id="tel"name="username"placeholder="prenom"></p>
-    <p><label for "password">Password  ABFDE0089</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom">
+    <pre><p><label for"nom">Prenom Amza</label><br><input id="nom"name="username"placeholder="prenom"></p></pre>
+    <pre><p><label for"nom">ÂGE 19 ans</label><br><input id="nom"name="username" placeholder="prenom"></p></pre>
+    <pre><p><label for"nom">Sexe M</label><br><input id="nom"name="username"placeholder="prenom"></p></pre>
+    <pre><p><label for"tel">Telephone  +21658262534</label><br><input id="tel"name="username"placeholder="prenom"></p></pre>
+    <pre><p><label for "password">Password  ABFDE0089</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom"></pre>
     </form>
 </body>
 </html>
