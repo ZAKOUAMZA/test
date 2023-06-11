@@ -201,9 +201,7 @@
 
 
 <div>
-<img src="https://tse1.mm.bing.net/th/id/OIP.qDpZVl3iqYll3vil8tC78gHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" weidth="25px" height="25" alt="" >
-</div>
-<div>
+<img src="https://tse1.mm.bing.net/th/id/OIP.qDpZVl3iqYll3vil8tC78gHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" weidth="30px" height="30" alt="" >
 <h2>+21658262534</h2>
 </div>  
 </body>
