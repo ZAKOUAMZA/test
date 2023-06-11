@@ -10,18 +10,16 @@
   <center> <h1>Mon entreprise de vente de moto</h1></center>
    <center><h2>Aujourd'hui je serai heureux de vous annoncez la création de ma nouvelle entreprise </h2></center>
    <center><h2>nommée ZAKOU_MOTO</h2></center>
-   <center><div>
+   <center> <div>
      <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" >
     <table weidht="100px" eight="100px" border="25px">
         <thead> 
             <div>
         <tr>
             <th>Caractéristique</th>
+                        <th>/</th>
         </tr>
-        <tr>
-            <th>/</th>
-        </tr>
-    </div></center>
+        </div></center>
         </thead>
         <tbody>
             <div>
