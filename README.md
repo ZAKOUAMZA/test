@@ -25,19 +25,20 @@
             <div>
         <tr>
             <th>Caractéristique</th>
-            <th>Performance</th>
-            <th>Qualité</th>
-            <th>Prix</th>
         </tr>
     </div>
         </thead>
         <tbody>
             <div>
         <tr>
-         <th></th>
-         <th></th>
-         <th></th>
-        </tr>
+         <th>Marque :</th>
+         <th>Modèle :</th>
+         <th>Année :</th>
+         <th>Kilométrage :</th>
+         <th>Couleur :</th>
+         <th>Prix :</th>
+         <th>État :</th>
+         </tr>
         </div>
         </tbody>
     </table> 
