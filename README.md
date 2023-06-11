@@ -18,6 +18,9 @@
         <tr>
             <th>Caractéristique</th>
         </tr>
+        <tr>
+            <th>/</th>
+        </tr>
     </div></center>
         </thead>
         <tbody>
