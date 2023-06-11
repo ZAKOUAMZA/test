@@ -188,7 +188,7 @@
 <a href="https://www.facebook.com/profile.php?id=100086211325213">voir facebook</a> 
 </div>
 <div>
-<a href="https://www.instagram.com/amza297/">voir Instagram</a>
+<a href="https://www.instagram.com/amza297/"><img src="https://tse1.mm.bing.net/th/id/OIP.fTaft4rWaIZwAMDZh6G3DQHaHa?w=189&h=189&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="" > voir Instagram</a>
 </div>   
 </body>
 </html>
