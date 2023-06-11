@@ -92,8 +92,45 @@
         </tbody>
     </table> 
      <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
-      <h2>Apsonic pour passager </h2>
-    <h2 style="color:blue;">PRIX 1.175.000 FCFA </h2>
+      <table weidht="100px" eight="100px" border="25px">
+        <thead> 
+        <tr>
+            <th>Caractéristique</th>
+                        <th>/</th>
+        </tr>
+      </center>
+        </thead>
+        <tbody>
+        <tr>
+         <td>Marque :</td>
+         <td>Apsonic</td>
+         </tr>
+        <tr>
+         <td>Modèle :</td>
+         <td>AP 125-30</td>
+         </tr>
+         <tr>
+         <td>Année :</td>
+                  <td>2022</td>
+         </tr>
+         <tr>
+         <td>Kilométrage :</td>
+                  <td>60 000 km</td>
+         </tr>
+         <tr>
+         <td>Couleur :</td>
+                  <td>Jaune</td>
+         </tr>
+         <tr>
+         <td>Prix :</td>
+                  <td>1.170.000 FCFA</td>
+         </tr>
+         <tr>
+         <td>État :</td>
+                  <td> Trés bon</td>
+         </tr>
+        </tbody>
+    </table> 
     <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3>
      
 </body>
