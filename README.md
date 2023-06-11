@@ -52,7 +52,7 @@
          </tr>
          <tr>
          <td>Prix :</td>
-                  <td>460.000</td>
+                  <td>460.000 FCFA</td>
          </tr>
          <tr>
          <td>État :</td>
