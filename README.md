@@ -196,5 +196,15 @@
 <div>
 <a href="https://www.instagram.com/amza297/">voir Instagram</a>
 </div>  
+
+
+
+
+<div>
+<img src="https://tse1.mm.bing.net/th/id/OIP.qDpZVl3iqYll3vil8tC78gHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" weidth="25px" height="25" alt="" >
+</div>
+<div>
+<a href="https://web.whatsapp.com/">voir Whatsapp</a>
+</div>  
 </body>
 </html>
