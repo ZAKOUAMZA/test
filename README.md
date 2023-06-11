@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>MON MAGASIN</h1>
     <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
 </style>
 </head>
-<body style="background-color:powderblue;">
-
+<body>
+<h1>MON MAGASIN</h1>
   <center> <h1>Mon entreprise de vente de moto</h1></center>
    <center><h2>Aujourd'hui je serai heureux de vous annoncez la création de ma nouvelle entreprise </h2></center>
    <center><h2>nommée ZAKOU_MOTO</h2></center>
