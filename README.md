@@ -32,25 +32,31 @@
             <div>
         <tr>
          <td>Marque :</td>
-         <td>Marque :</td>
+         <td>Apsonic</td>
          </tr>
         <tr>
          <td>Modèle :</td>
+         <td>Ap 125-30</td>
          </tr>
          <tr>
          <td>Année :</td>
+                  <td>2016</td>
          </tr>
          <tr>
          <td>Kilométrage :</td>
+                  <td>20 000 km</td>
          </tr>
          <tr>
          <td>Couleur :</td>
+                  <td>Noire</td>
          </tr>
          <tr>
          <td>Prix :</td>
+                  <td>460.000</td>
          </tr>
          <tr>
          <td>État :</td>
+                  <td> Trés bon</td>
          </tr>
         </div>
         </tbody>
