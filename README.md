@@ -12,7 +12,7 @@
    <h2>nommée ZAKOU_MOTO</h2></center>
    <center> 
      <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" >
-    <table weidht="100px" height="100px" border="25px">
+    <table weidht="100px" eight="100px" border="25px">
         <thead> 
         <tr>
             <th>Caractéristique</th>
@@ -52,7 +52,7 @@
         </tbody>
     </table> 
      <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" >
-      <table weidht="100px" height="100px" border="25px">
+      <table weidht="100px" eight="100px" border="25px">
         <thead> 
         <tr>
             <th>Caractéristique</th>
@@ -92,7 +92,7 @@
         </tbody>
     </table> 
      <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
-      <table weidht="100px" height="100px" border="25px">
+      <table weidht="100px" eight="100px" border="25px">
         <thead> 
         <tr>
             <th>Caractéristique</th>
@@ -132,7 +132,7 @@
         </tbody>
     </table>
 <img src="https://www.enduromag.fr/wp-content/uploads/2015/06/exc-2016.jpg " alt="" >
-    <table weidht="100px" height="100px" border="25px">
+    <table weidht="100px" eight="100px" border="25px">
         <thead> 
         <tr>
             <th>Caractéristique</th>
