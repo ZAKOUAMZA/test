@@ -32,6 +32,7 @@
             <div>
         <tr>
          <td>Marque :</td>
+         <td>Marque :</td>
          </tr>
         <tr>
          <td>Modèle :</td>
