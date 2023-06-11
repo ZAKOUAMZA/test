@@ -32,11 +32,23 @@
             <div>
         <tr>
          <td>Marque :</td>
+         </tr>
+        <tr>
          <td>Modèle :</td>
+         </tr>
+         <tr>
          <td>Année :</td>
+         </tr>
+         <tr>
          <td>Kilométrage :</td>
+         </tr>
+         <tr>
          <td>Couleur :</td>
+         </tr>
+         <tr>
          <td>Prix :</td>
+         </tr>
+         <tr>
          <td>État :</td>
          </tr>
         </div>
