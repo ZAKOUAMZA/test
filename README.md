@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MON MAGASIN</title>
+    MON MAGASIN
 </head>
 <body style="background-color:powderblue;">
 
@@ -12,7 +12,7 @@
    <center><h2>nommée ZAKOU_MOTO</h2></center>
    <center> 
      <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" >
-    <table weidht="100px" eight="100px" border="25px">
+    <table weidht="100px" eight="100px" border="25px" title="les caractéristique de nos nouvelle moto">
         <thead> 
         <tr>
             <th>Caractéristique</th>
