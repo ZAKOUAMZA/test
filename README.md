@@ -182,6 +182,7 @@
     <pre><p><label for "password">Password  ABFDE0089</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom"></pre>
     </form>
 <img src="https://tse1.mm.bing.net/th/id/OIP.xILAh7GLfydSaMahbReSdwHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="">
-<a href="https://www.facebook.com/profile.php?id=100086211325213">voir facebook</a>   
+<a href="https://www.facebook.com/profile.php?id=100086211325213">voir facebook</a> 
+<a href="https://www.instagram.com/amza297/">voir Instagram</a>   
 </body>
 </html>
