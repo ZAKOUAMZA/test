@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>MON MAGASIN</h1>
+    <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+</style>
 </head>
 <body style="background-color:powderblue;">
 
