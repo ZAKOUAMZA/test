@@ -204,5 +204,53 @@
 <img src="https://tse1.mm.bing.net/th/id/OIP.qDpZVl3iqYll3vil8tC78gHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" weidth="20px" height="20" alt="" >
 <h2>+21658262534</h2>
 </div>  
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <h2>MON ENTREPRISE DE MOTO - voiture</h2>
+    
+<h1><i>je suis heureux de vous annoncez la création de mon<br> site web pour mon entreprise de moto - voiture</i></h1>
+
+
+<i><h2>Exemple de moto - voiture disponible</h2></i>
+        <img src="https://www.bing.com/th?id=OIP.9RDxOKPg9jTCVUP4-Fn2agHaE7&w=180&h=120&c=2&rs=1&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1 " weidht="200px" height="200px" alt="">
+    <table border="10" id="voiture"  >
+    <tbody>
+                <tr><th>Marque de voiture</th>
+                    <th>Qualitée</th>
+                    <th>Prix</th>
+                </tr>
+                <tr>
+                    <td>RALLY CHINOISE</td>
+                    <td>EXEPTIONNELLE</td>
+                    <td>4000 TND</td>
+                </tr>
+    </tbody>
+</table>
+
+<img src="https://www.enduromag.fr/wp-content/uploads/2015/06/exc-2016.jpg " weidht="200px" height="200px" alt="" >
+    
+<h2>
+    <p class="rotate">MOTO - VOITURE</p>
+</h2>
+
+  <h4 class="scroller">Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !.</h4>
+
+  <h1>HAMZA ANIMATION</h1>
+
+  <div>
+  
+  <h4></h4>
+</div>
+</body>
+</html>
 </body>
 </html>
