@@ -169,10 +169,10 @@ transition: 0.4s ease-in-out;
 </head>
 <body>  
     <ul class="topnav">
-        <li><a class="active" href="#home">Acceuil /</a></li>
-        <li><a href="#news">Travail /</a></li>
-        <li><a href="#Cv">Cv /</a></li>
-        <li><a href="#contact">Contact /</a></li>
+        <li><a class="active" href="#home">Acceuil </a></li>
+        <li><a href="#news">Travail </a></li>
+        <li><a href="#Cv">Cv </a></li>
+        <li><a href="#contact">Contact </a></li>
         <li class="propos"><a href="javascript:void(0)" class="apropos" >À propos</a>
         <div class="propos-content">
       <a href="#">Information générales<br>et coordonnées</a>
