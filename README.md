@@ -1,256 +1,328 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<h1>MON MAGASIN</h1>
-  <center> <h1>Mon entreprise de vente de moto</h1></center>
-   <center><h2>Aujourd'hui je serai heureux de vous annoncez la création de ma nouvelle entreprise </h2></center>
-   <center>
-   <h2>nommée ZAKOU_MOTO</h2></center>
-   <center> 
-     <img src="https://tse1.mm.bing.net/th/id/OIP._qojHlIbEYqRrVmmRWE8JwHaGk?pid=ImgDet&rs=1" alt="" >
-    <table weidht="100px" eight="100px" border="25px">
-        <thead> 
-        <tr>
-            <th>Caractéristique</th>
-                        <th>/</th>
-        </tr>
-      </center>
-        </thead>
-        <tbody>
-        <tr>
-         <td>Marque :</td>
-         <td>Apsonic</td>
-         </tr>
-        <tr>
-         <td>Modèle :</td>
-         <td>Ap 125-30</td>
-         </tr>
-         <tr>
-         <td>Année :</td>
-                  <td>2016</td>
-         </tr>
-         <tr>
-         <td>Kilométrage :</td>
-                  <td>20 000 km</td>
-         </tr>
-         <tr>
-         <td>Couleur :</td>
-                  <td>Noire</td>
-         </tr>
-         <tr>
-         <td>Prix :</td>
-                  <td>460.000 FCFA</td>
-         </tr>
-         <tr>
-         <td>État :</td>
-                  <td> Trés bon</td>
-         </tr>
-        </tbody>
-    </table> 
-     <img src="https://media.jumiadeals.com/ci_live/38df99139e60413c57eead2.desktop-gallery-large.jpg" alt="tricycle pour bagage" >
-      <table weidht="100px" eight="100px" border="25px">
-        <thead> 
-        <tr>
-            <th>Caractéristique</th>
-                        <th>/</th>
-        </tr>
-      </center>
-        </thead>
-        <tbody>
-        <tr>
-         <td>Marque :</td>
-         <td>Dazon</td>
-         </tr>
-        <tr>
-         <td>Modèle :</td>
-         <td>Dz 125-30</td>
-         </tr>
-         <tr>
-         <td>Année :</td>
-                  <td>2018</td>
-         </tr>
-         <tr>
-         <td>Kilométrage :</td>
-                  <td>60 000 km</td>
-         </tr>
-         <tr>
-         <td>Couleur :</td>
-                  <td>Grise</td>
-         </tr>
-         <tr>
-         <td>Prix :</td>
-                  <td>1.180.000 FCFA</td>
-         </tr>
-         <tr>
-         <td>État :</td>
-                  <td> Trés bon</td>
-         </tr>
-        </tbody>
-    </table> 
-     <img src="https://i.pinimg.com/originals/38/a7/6e/38a76e84b06953e09ec4f0d329843425.jpg" alt="tricycle pour passager" >
-      <table weidht="100px" eight="100px" border="25px">
-        <thead> 
-        <tr>
-            <th>Caractéristique</th>
-                        <th>/</th>
-        </tr>
-      </center>
-        </thead>
-        <tbody>
-        <tr>
-         <td>Marque :</td>
-         <td>Apsonic</td>
-         </tr>
-        <tr>
-         <td>Modèle :</td>
-         <td>AP 125-30</td>
-         </tr>
-         <tr>
-         <td>Année :</td>
-                  <td>2022</td>
-         </tr>
-         <tr>
-         <td>Kilométrage :</td>
-                  <td>60 000 km</td>
-         </tr>
-         <tr>
-         <td>Couleur :</td>
-                  <td>Jaune</td>
-         </tr>
-         <tr>
-         <td>Prix :</td>
-                  <td>1.170.000 FCFA</td>
-         </tr>
-         <tr>
-         <td>État :</td>
-                  <td> Trés bon</td>
-         </tr>
-        </tbody>
-    </table>
-<img src="https://www.enduromag.fr/wp-content/uploads/2015/06/exc-2016.jpg " alt="" >
-    <table weidht="100px" eight="100px" border="25px">
-        <thead> 
-        <tr>
-            <th>Caractéristique</th>
-                        <th>/</th>
-        </tr>
-      </center>
-        </thead>
-        <tbody>
-        <tr>
-         <td>Marque :</td>
-         <td>DT Américaine</td>
-         </tr>
-        <tr>
-         <td>Modèle :</td>
-         <td>DT 180-90</td>
-         </tr>
-         <tr>
-         <td>Année :</td>
-                  <td>2023</td>
-         </tr>
-         <tr>
-         <td>Kilométrage :</td>
-                  <td>120 000 km</td>
-         </tr>
-         <tr>
-         <td>Couleur :</td>
-                  <td>orange</td>
-         </tr>
-         <tr>
-         <td>Prix :</td>
-                  <td>1.190.000 FCFA</td>
-         </tr>
-         <tr>
-         <td>État :</td>
-                  <td> Trés bon</td>
-         </tr>
-        </tbody>
-    </table> 
-    <h3>Aprocher pour voir la qualitée car seule la qualitée fait la difference</h3> 
-    <form method="post" action="">
-	<div id="A">
-    <pre><p><label for"nom">Nom        Zakou </label><br><input id="nom"name="username"placeholder="Nom..."></p></pre>
-    <pre><p><label for"nom">Prenom Amza</label><br><input id="nom"name="username"placeholder="prenom"></p></pre>
-    <pre><p><label for"nom">ÂGE 19 ans</label><br><input id="nom"name="username" placeholder="prenom"></p></pre>
-    <pre><p><label for"nom">Sexe M</label><br><input id="nom"name="username"placeholder="prenom"></p></pre>
-    <pre><p><label for"tel">Telephone  +21658262534</label><br><input id="tel"name="username"placeholder="prenom"></p></pre>
-    <pre><p><label for "password">Password  ABFDE0089</label><br><input id="password" type="password" name="champFormulaire" placeholder="prenom"></pre>
-    </form>
-    <div>
-<img src="https://tse1.mm.bing.net/th/id/OIP.xILAh7GLfydSaMahbReSdwHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="">
-</div>
-<div>
-<img src="https://tse2.mm.bing.net/th/id/OIP.AcAw4V739JOliwrdwiorqwHaHa?w=158&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" weidth="25px" height="25" alt="" >
-</div>
-<div>
-<a href="https://www.facebook.com/profile.php?id=100086211325213">voir facebook</a> 
-</div>
-<div>
-<img src="https://tse1.mm.bing.net/th/id/OIP.fTaft4rWaIZwAMDZh6G3DQHaHa?w=189&h=189&c=7&r=0&o=5&dpr=1.3&pid=1.7" weidth="25px" height="25" alt="" >
-</div>
-<div>
-<a href="https://www.instagram.com/amza297/">voir Instagram</a>
-</div>  
-
-
-
-
-<div>
-<img src="https://tse1.mm.bing.net/th/id/OIP.qDpZVl3iqYll3vil8tC78gHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" weidth="20px" height="20" alt="" >
-<h2>+21658262534</h2>
-</div>  
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
     <title>Document</title>
+    <style>
+body{
+background-color:whitesmoke;
+  /* background-image: url(https://tse2.mm.bing.net/th/id/OIP.B1PP5l-T7iquuHHaozzuZQHaE8?pid=ImgDet&w=187&h=124&c=7&dpr=1.3://wallpaperaccess.com/full/3228833.jpg);*/
+    background-size: cover;
+}
+.shot-header-title{
+    color: orangered;
+}
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(24, 94, 24);
+  }
+li a ,.apropos {
+    display: inline-block;
+    color:orangered;
+    text-align: center;
+    padding:0;
+    text-decoration: none;
+    }
+  /*li a:hover, .propos:hover .apropos{
+      background-color: red; }
+  */.propos-content {
+    display: none;
+    position: absolute;
+    background-color:rgb(17, 72, 45);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  .propos-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    }
+  .propos-content a:hover {background-color:rgb(17, 72, 45);}
+.propos:hover .propos-content {
+  display: block;
+} 
+  li.propos {
+    display: inline-block;
+  }
+  ul.topnav li {float: left;}
+  ul.topnav li a {
+    display: block;
+    color: rgb(240, 246, 240);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+transition: 0.4s ease-in-out;
+  }
+  ul.topnav li a:hover {/*background-color:rgb(41, 0, 128)*/ color:orangered;}
+  ul.topnoav li.right {float: right;}
+   @media screen and (max-width: 600px) {
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+  }
+  /*.exemple {
+    animation-duration: 3s;
+    animation-name: exemple;
+    animation-iteration-count: 3;
+    animation-direction: alternate;
+  }
+  @keyframes exemple {
+    from {
+      margin-left:100%;
+      width:300%
+    }
+  }
+*/
+  .exemple {
+    display: inline-block;
+    margin: 1em;
+   /* min-width: 6.5em;*/
+    line-height: 6.5em;
+    text-align: center;
+    transition: 1s ease-in-out;
+   /* border: 0.25em dotted;*/
+  }
+   #exemple1:hover {
+    rotate: y 180deg;
+  }
+  #exemple2:hover {
+    rotate: y 180deg;
+  }
+  #exemple3:hover {
+    rotate: y 180deg;
+  }
+  .bg {
+    padding-left:1%;
+    color: rgb(4, 4, 12);
+  }
+  .images {
+    display: flex;
+    justify-content: space-around;
+    width: 50vw;
+  }
+  .img-clip-path {
+    height: 200px;
+  }
+  .img-rectangle{
+    clip-path:ellipse(50% 50%);
+  }
+  .box{
+    border: 2px solid rgb(71, 26, 161);
+    width: 45%;
+    color: red;
+    padding-left: 1% ;
+  }
+  .colone{
+    column-count: 3;
+    padding-left: 1%;
+  color: red;
+  }
+  h3{
+    padding: 10px 5px;
+    border: 3px solid rgb(2, 7, 6);
+    border-radius: 20px;
+    width: 150px;
+    font-size: 1.2rem;
+    text-align: center;
+    color: rgb(9, 12, 10);
+  }
+  .h11{
+    color:rgb(17, 72, 45);
+  }
+  .rotate {
+    transition: rotate 1s;
+  }
+  div:hover .rotate {
+    rotate: 1 -0.5 1 180deg;
+  }
+  #fr{color: red;}
+  .colonne{
+    column-count: 3;
+    padding-left: 1%;
+  color: blue;
+  }
+  .pied{
+    padding-top:5% ;
+    background-color:black ;
+    padding-bottom: 10%;
+    padding-left: 4%;
+  }
+  .ut{
+    color:blue;
+  }
+  .utt{
+    color:black;
+  }
+  .bl{background-color: blue;}
+  button{color:white}
+.ab{
+  color: orangered;
+}
+      </style>
 </head>
-<body>
-    <h2>MON ENTREPRISE DE MOTO - voiture</h2>
-    
-<h1><i>je suis heureux de vous annoncez la création de mon<br> site web pour mon entreprise de moto - voiture</i></h1>
-
-
-<i><h2>Exemple de moto - voiture disponible</h2></i>
-        <img src="https://www.bing.com/th?id=OIP.9RDxOKPg9jTCVUP4-Fn2agHaE7&w=180&h=120&c=2&rs=1&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1 " weidht="200px" height="200px" alt="">
-    <table border="10" id="voiture"  >
-    <tbody>
-                <tr><th>Marque de voiture</th>
-                    <th>Qualitée</th>
-                    <th>Prix</th>
-                </tr>
-                <tr>
-                    <td>RALLY CHINOISE</td>
-                    <td>EXEPTIONNELLE</td>
-                    <td>4000 TND</td>
-                </tr>
-    </tbody>
-</table>
-
-<img src="https://www.enduromag.fr/wp-content/uploads/2015/06/exc-2016.jpg " weidht="200px" height="200px" alt="" >
-    
-<h2>
-    <p class="rotate">MOTO - VOITURE</p>
-</h2>
-
-  <h4 class="scroller">Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !Trouvez la voiture de vos rêves chez nous ! Nous avons une large sélection de voitures neuves et d'occasion à des prix imbattables. Venez nous rendre visite dès maintenant pour profiter de nos offres spéciales !.</h4>
-
-  <h1>HAMZA ANIMATION</h1>
-
-  <div>
-  
-  <h4></h4>
+<body>  
+    <ul class="topnav">
+        <li><a class="active" href="#home">Acceuil /</a></li>
+        <li><a href="#news">Travail /</a></li>
+        <li><a href="#Cv">Cv /</a></li>
+        <li><a href="#contact">Contact /</a></li>
+        <li class="propos"><a href="javascript:void(0)" class="apropos" >À propos</a>
+        <div class="propos-content">
+      <a href="#">Information générales<br>et coordonnées</a>
+      <a href="##">confidentialité et<br>informations juridiques</a>
+      <a href="#">Emploi et entreprise</a>
+      <a href="#">Lieux de résidence</a>
+      <a href="#">Transparence de la page</a>
+      <a href="#">Famille et relation</a>
+      <a href="#">Détails sur vous</a>
+      <a href="#">Évènements marquants</a>
+        </div> 
+        </li>
+      </ul>
+      <br>
+      <br>
+      <div class="image" >
+        <center><div class="rotate">
+          <img class="img-rectangle img-clip-path"  alt="mercedez" title="marque-mercedez"  src="https://tse2.mm.bing.net/th/id/OIP.1n2tW4cdDSpR3CrHH71RKgHaEK?w=284&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="">
+        </div></center>
+          <h1 class="h11"><b>Amza - nouveau concèpteur <br> de merco pro max Tn 6666</b></h1>
+        </div>
+      <div style="padding:0 16px;color: rgb(5, 5, 14); ">
+        <h1>Votre entreprise d'automobile !</h1>
+      </div>
+      <div class="box">
+        <p>Bienvenue chez notre concessionnaire automobile ! Nous sommes ravis de vous accueillir dans notre entreprise<br> et  de vous aider à trouver le véhicule qui répondra à vos besoins Chez nous, vous trouverez une large sélection de voitures neuves<br> et d'occasion ainsi que des financements et des offres spéciales pour vous aider à obtenir le meilleur prix possible. Notre équipe de professionnels est <br>là pour répondre à toutes vos questions et pour vous aider à naviguer dans le processus d'achat. Nous espérons que vous apprécierez votre visite chez nous !</p>
+      </div>
+      <div class="bg">
+      <h2>Un modèle athlétique et connecté</h2>
+      </div>
+<div >
+        <p>Inspirée des modèles mythique qui ont forgé l'histoire de mercedez en compétition automobile, la deuxiéme génération de mercedez C616 sportback est plus athlétique que jamais. A
+        l'intérieur, résolument digital native, la petite citadine embarque les technologies des plus grandes.</p>
+      </div>
+      <div>
+<div  class="exemple" id="exemple1"><img src="https://tse3.mm.bing.net/th/id/OIP.AaajI7liZooIvenKB8LwJAHaEo?w=247&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  width="100%" height="auto" alt=""></div>
+<div  class="exemple" id="exemple2"><img src="https://tse3.mm.bing.net/th/id/OIP.2L7My8fl6EmcOjiLdZ48XAHaEK?w=280&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  width="100%" height="auto" alt=""></div>
+<div class="exemple" id="exemple3"><img src="https://tse4.mm.bing.net/th/id/OIP.P0hq2u7jo_o3Txegm7O1rAHaEo?w=237&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  width="100%" height="auto" alt=""></div>
 </div>
+<div class="colone">
+  <h3 id="fr"> Merco 10 pro max cacheté venus de londre <br>prix: 150.000 €</h3>
+  <h3 id="fr">Merco 11 pro cacheté venus de chine <br>prix: 175.000 €</h3>
+  <h3 id="fr">Merco 11 pro max cacheté venus de Niger <br>prix: 190.000 €</h3>
+</div>
+
+<div>
+  <div  class="exemple" id="exemple1"><img src="https://tse3.mm.bing.net/th/id/OIP.ZtEmezEUwX3cxcDWQY1wRgHaEc?w=257&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  width="95%" height="auto" alt=""></div>
+  <div  class="exemple" id="exemple2"><img src="https://tse4.mm.bing.net/th/id/OIP.mQHzBN3bzNSwpP5_3pUmkgHaEK?w=307&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  width="95%" height="auto" alt=""></div>
+  <div class="exemple" id="exemple3"><img src="https://tse4.mm.bing.net/th/id/OIP.xLaHAbShUIwpfIAfe0EmIwHaEd?pid=ImgDet&w=187&h=112&c=7&dpr=1.3"   width="150%" height="auto" alt=""></div>
+  </div>
+  <div class="colone">
+    <h3 id="fr">Merco 12 cacheté venus du Burkina <br>prix: 200.000 €</h3>
+    <h3 id="fr">Merco 12 pro cacheté venus de France <br>prix: 250.000 €</h3>
+    <h3 id="fr">Merco 14 pro max cacheté venus de côte d'ivoire <br>prix: 5.000.000 €</h3>
+  </div>
+  <br>
+  <br>
+  <br>
+  <center><div> 
+    <iframe width="420" height="315"
+    src="https://www.youtube.com/embed/FYuy_dOtek8" >
+    </iframe>
+  
+  </div></center>
+  <br>
+  <center><div class="ut"><h1>Inscrivez-vous !</h1></div>
+<form action="">
+  <label for="Utilisateur" class="utt">Nom:</label>
+  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre nom ..." /> <br>
+  <br>
+  <label for="Utilisateur" class="utt">Prenom :</label>
+  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre prenom ..." /><br>
+  <br>
+  <label for="Utilisateur" class="utt">Password :</label>
+  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre code ..." /><br>
+  <br>
+  <label for="Utilisateur" class="utt">Contact :</label>
+  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre contact ..." /><br>
+  <br>
+  <button class="bl">envoyer</button></center>
+  <br>
+  <br>
+  <footer class="pied">
+ <div class="colonne">
+  <div>
+  <h2>PRIX DU NOEUF</h2>
+  <ol type="#" class="ab">
+      <li>Marques</li>
+      <li>Concessionnaires</li>
+      <li>Comparateur</li>
+  </ol>
+</div>
+<div>
+    <h2>OCCASION</h2>
+    <ol class="ab">
+        <li>Recherce</li>
+        <li>Annonces du jour</li>
+        <li>Vendeur pro</li>
+    </ol>
+  </div>
+<div>
+      <h2>AUTO MAG</h2>
+      <ol class="ab">
+          <li>Nouveautés</li>
+          <li>Actu</li>
+          <li>Essais</li>
+          <li>Concepts</li>
+      </ol>
+    </div>
+</div> 
+<br>
+<br>
+<br>
+<div class="colonne">
+  <div>
+  <h2>GUIDE PRATIQUE</h2>
+  <ol type="#" class="ab">
+      <li>Droits de douane</li>
+      <li>FCR</li>
+      <li>Permi de conduite</li>
+      <li>Visite technique</li>
+      <li>Vignette</li>
+      <li>Voiture populaire</li>
+  </ol>
+</div>
+<div>
+  <h2>MON ESPACE</h2>
+  <ol type="#" class="ab">
+      <li>Créer une annonce</li>
+      <li>Annonces favorite</li>
+      <li>Gérer mes alertes</li>
+      <li>Inscription</li>
+      <li>Gérer mes informations</li>
+      <li>Mes Annonces</li>
+  </ol>
+</div>
+<div>
+  <h2>QUI SOMME-NOUS ?</h2>
+  <ol type="#" class="ab">
+      <li>Contactez-nous</li>
+      <li>Mention légales</li>
+      <li>Politique de confidentialité</li>
+      <li>Revue de presse</li>
+      
+  </ol>
+</div>
+</div>
+
+</form>
 </body>
 </html>
-</body>
-</html>
+
+
