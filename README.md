@@ -4,33 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
     <title>Document</title>
     <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body{
-background-color:whitesmoke;
   /* background-image: url(https://tse2.mm.bing.net/th/id/OIP.B1PP5l-T7iquuHHaozzuZQHaE8?pid=ImgDet&w=187&h=124&c=7&dpr=1.3://wallpaperaccess.com/full/3228833.jpg);*/
     background-size: cover;
+   /* display: flex;*/
+    justify-content:center;
+    flex-direction: columns;
+    align-items: center;
+    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
 }
 .shot-header-title{
     color: orangered;
 }
-ul.topnav {
+.topnav {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:rgb(24, 94, 24);
+    background-color:#eb7371;
   }
-li a ,.apropos {
+ /* li a ,.apropos {
     display: inline-block;
-    color:orangered;
+    color:black;
     text-align: center;
     padding:0;
     text-decoration: none;
-    }
+    }*/
   /*li a:hover, .propos:hover .apropos{
-      background-color: red; }
-  */.propos-content {
+      background-color: red;
+      }
+  */
+  .propos-content {
     display: none;
     position: absolute;
     background-color:rgb(17, 72, 45);
@@ -43,12 +52,12 @@ li a ,.apropos {
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    text-align: left;
-    }
+    text-align: left;  
+  }
   .propos-content a:hover {background-color:rgb(17, 72, 45);}
 .propos:hover .propos-content {
   display: block;
-} 
+}
   li.propos {
     display: inline-block;
   }
@@ -59,11 +68,11 @@ li a ,.apropos {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-transition: 0.4s ease-in-out;
-  }
-  ul.topnav li a:hover {/*background-color:rgb(41, 0, 128)*/ color:orangered;}
+   transition: 0.4s ease-in-out;
+  } 
+.topnav li a:hover {/*background-color:rgb(41, 0, 128)*/ color:black;}
   ul.topnoav li.right {float: right;}
-   @media screen and (max-width: 600px) {
+  @media screen and (max-width: 600px) {
     ul.topnav li.right, 
     ul.topnav li {float: none;}
   }
@@ -88,8 +97,8 @@ transition: 0.4s ease-in-out;
     text-align: center;
     transition: 1s ease-in-out;
    /* border: 0.25em dotted;*/
-  }
-   #exemple1:hover {
+  } 
+  #exemple1:hover {
     rotate: y 180deg;
   }
   #exemple2:hover {
@@ -114,15 +123,22 @@ transition: 0.4s ease-in-out;
     clip-path:ellipse(50% 50%);
   }
   .box{
-    border: 2px solid rgb(71, 26, 161);
+    border: 5px inset orange;
     width: 45%;
-    color: red;
+    color:black;
     padding-left: 1% ;
+  }
+  .box p{  /*letter-spacing: 4px;*/
+    word-spacing: 20px;
+    font-size: 25px;
+    font-family: Helvetica ;
+    font-style: italic; 
+    /*text-align: justify;*/
   }
   .colone{
     column-count: 3;
     padding-left: 1%;
-  color: red;
+  color:black;
   }
   h3{
     padding: 10px 5px;
@@ -142,11 +158,12 @@ transition: 0.4s ease-in-out;
   div:hover .rotate {
     rotate: 1 -0.5 1 180deg;
   }
-  #fr{color: red;}
+  #fr{color: black;}
   .colonne{
     column-count: 3;
     padding-left: 1%;
   color: blue;
+  cursor:pointer ;
   }
   .pied{
     padding-top:5% ;
@@ -163,13 +180,78 @@ transition: 0.4s ease-in-out;
   .bl{background-color: blue;}
   button{color:white}
 .ab{
-  color: orangered;
+  color:#fff;
 }
-      </style>
+form {
+  margin-top: 0px;
+  background-color: #fff;
+  padding:0%;
+  border-radius: 10px;
+  min-width: 0px;
+  width: 500px;
+  height: auto;
+}
+form h1{
+  color: blue;
+  text-align:center;
+}
+form .social-media{
+  margin-top: -10px;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+form .social-media p{
+  padding: 5px;
+  width: 20px;
+  margin-left: 20px;
+  border-radius: 100%;
+  border: 1px solid #545454;
+  text-align: center;
+  cursor:pointer;
+  color: #545454;
+}
+form p.choose-email{
+  text-align:center;
+}
+form .inputs {
+  display: flex;
+  flex-direction: column;
+}
+form .inputs input[type='email'], input[type='password'],input[type='name'],input[type='prenom']{
+  padding: 25px;
+  border:none;
+  border-radius: 8px;
+  background-color:#f5f5f5;
+  outline:none;
+  margin-bottom: 5px;
+}
+form p.inscription{
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #878787;
+}
+form p.inscription span{
+  color: blue;
+}
+form button{
+  padding: 15px 25px;
+  border-radius: 5px;
+  border:none;
+  font-size: 15px;
+  color: #fff;
+  background-color: blue;
+  outline:none;
+  cursor:pointer;
+} 
+.ess{
+  column-count: 2;
+    padding-left: 1%;
+}  </style>
 </head>
 <body>  
     <ul class="topnav">
-        <li><a class="active" href="#home">Acceuil </a></li>
+        <li><a class="active" href="#home">Acceuil</a></li>
         <li><a href="#news">Travail </a></li>
         <li><a href="#Cv">Cv </a></li>
         <li><a href="#contact">Contact </a></li>
@@ -183,13 +265,16 @@ transition: 0.4s ease-in-out;
       <a href="#">Famille et relation</a>
       <a href="#">Détails sur vous</a>
       <a href="#">Évènements marquants</a>
-        </div> 
+
+        </div>
+       
         </li>
       </ul>
       <br>
       <br>
       <div class="image" >
         <center><div class="rotate">
+      
           <img class="img-rectangle img-clip-path"  alt="mercedez" title="marque-mercedez"  src="https://tse2.mm.bing.net/th/id/OIP.1n2tW4cdDSpR3CrHH71RKgHaEK?w=284&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="">
         </div></center>
           <h1 class="h11"><b>Amza - nouveau concèpteur <br> de merco pro max Tn 6666</b></h1>
@@ -231,56 +316,60 @@ transition: 0.4s ease-in-out;
   <br>
   <br>
   <br>
-  <center><div> 
-    <iframe width="420" height="315"
+  <div class="ess">
+    <iframe width="430 px" height="350 px"
     src="https://www.youtube.com/embed/FYuy_dOtek8" >
     </iframe>
   
-  </div></center>
   <br>
-  <center><div class="ut"><h1>Inscrivez-vous !</h1></div>
-<form action="">
-  <label for="Utilisateur" class="utt">Nom:</label>
-  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre nom ..." /> <br>
-  <br>
-  <label for="Utilisateur" class="utt">Prenom :</label>
-  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre prenom ..." /><br>
-  <br>
-  <label for="Utilisateur" class="utt">Password :</label>
-  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre code ..." /><br>
-  <br>
-  <label for="Utilisateur" class="utt">Contact :</label>
-  <input type="text" id="Utilisateur" name="Nom" placeholder="entrez votre contact ..." /><br>
-  <br>
-  <button class="bl">envoyer</button></center>
-  <br>
-  <br>
+    <form >
+      <div><h1>Se connecter</h1></div>
+      <div class="social-media">
+        <p><i class="fab fa-google"></i></p>
+        <p><i class="fab fa-youtube"></i></p>
+        <p><i class="fab fa-facebook-f"></i></p>
+        <p><i class="fab fa-twitter"></i></p>
+      </div>
+      <p class="choose-email">ou utiliser mon adresse e-mail :</p>
+      <div class="inputs">
+        <input type="email" placeholder="Email" />
+        <input type="password" placeholder="Mot de passe">
+      </div>
+      <center><p class="inscription">Je n'ai pas de <span>compte</span>. Je m'en <span>crée</span> un.</p></center>
+      <div align="center">
+        <button type="submit">Se connecter</button>
+      </div>
+    </form>
+    </div>
+    <br>
+    <br>
+    <br>
   <footer class="pied">
  <div class="colonne">
   <div>
   <h2>PRIX DU NOEUF</h2>
-  <ol type="#" class="ab">
+  <ul type="" class="ab">
       <li>Marques</li>
       <li>Concessionnaires</li>
       <li>Comparateur</li>
-  </ol>
+  </ul>
 </div>
 <div>
     <h2>OCCASION</h2>
-    <ol class="ab">
+    <ul class="ab">
         <li>Recherce</li>
         <li>Annonces du jour</li>
         <li>Vendeur pro</li>
-    </ol>
+    </ul>
   </div>
 <div>
       <h2>AUTO MAG</h2>
-      <ol class="ab">
+      <ul class="ab">
           <li>Nouveautés</li>
           <li>Actu</li>
           <li>Essais</li>
           <li>Concepts</li>
-      </ol>
+      </ul>
     </div>
 </div> 
 <br>
@@ -289,39 +378,38 @@ transition: 0.4s ease-in-out;
 <div class="colonne">
   <div>
   <h2>GUIDE PRATIQUE</h2>
-  <ol type="#" class="ab">
+  <ul type="#" class="ab">
       <li>Droits de douane</li>
       <li>FCR</li>
       <li>Permi de conduite</li>
       <li>Visite technique</li>
       <li>Vignette</li>
       <li>Voiture populaire</li>
-  </ol>
+  </ul>
 </div>
 <div>
   <h2>MON ESPACE</h2>
-  <ol type="#" class="ab">
+  <ul type="#" class="ab">
       <li>Créer une annonce</li>
       <li>Annonces favorite</li>
       <li>Gérer mes alertes</li>
       <li>Inscription</li>
       <li>Gérer mes informations</li>
       <li>Mes Annonces</li>
-  </ol>
+  </ul>
 </div>
 <div>
   <h2>QUI SOMME-NOUS ?</h2>
-  <ol type="#" class="ab">
+  <ul type="#" class="ab">
       <li>Contactez-nous</li>
       <li>Mention légales</li>
       <li>Politique de confidentialité</li>
       <li>Revue de presse</li>
       
-  </ol>
+  </ul>
 </div>
 </div>
-
-</form>
+</footer>
 </body>
 </html>
 
